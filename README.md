@@ -1,11 +1,11 @@
 <<<<<<< HEAD
 # Event-Management-System
-A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
+## A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
 =======
 # Evento - Complete Responsive Event Organizer Website
-# Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
+## Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
 
-# Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
+## Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
 
 A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
 

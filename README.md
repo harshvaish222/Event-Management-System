@@ -3,13 +3,16 @@
 A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
 =======
 # Evento - Complete Responsive Event Organizer Website
+# Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
 
 # Deployment Link - [dainty-cucurucho-d20323.netlify.app](dainty-cucurucho-d20323.netlify.app)
 
 A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
 
-<img width="1780" height="922" alt="Screenshot 2025-08-01 183035" src="https://github.com/user-attachments/assets/25e52fc2-1bae-476f-a4be-e7feb4584c08" />
+<img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/465e3d63-3ead-4adf-8bdf-4f9c9e2ff6a3" />
+
 <img width="1708" height="907" alt="Screenshot 2025-08-01 183103" src="https://github.com/user-attachments/assets/dc4bfc5c-e59e-4a69-8537-6424f5b3051f" />
+
 
 
 
@@ -125,7 +128,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Created by **Mr. Harsh Vaish**
 
----
-
-**Note**: This is a template website. Replace all placeholder content, images, and contact information with your actual business details before going live.
->>>>>>> 168ef3803d7556f0364f76ed52dc208e5e1d3bf7

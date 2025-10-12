@@ -7,6 +7,7 @@ A modern, fully responsive event organizing website built with HTML, CSS, and Ja
 A modern, fully responsive event organizing website built with HTML, CSS, and JavaScript. This website showcases event planning services with an elegant design and smooth user experience.
 
 <img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/465e3d63-3ead-4adf-8bdf-4f9c9e2ff6a3" />
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1708" height="907" alt="Screenshot 2025-08-01 183103" src="https://github.com/user-attachments/assets/dc4bfc5c-e59e-4a69-8537-6424f5b3051f" />
 
 

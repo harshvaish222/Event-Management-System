@@ -145,12 +145,13 @@ section{
 
 .service .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+    grid-template-columns: auto auto auto;
+    /* grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr)); */
     gap:1.5rem;
 }
 
 .service .box-container .box{
-    border-radius: .5rem;
+    border-radius: 1rem;
     background:#333;
     text-align: center;
     padding:2.5rem;
@@ -214,7 +215,9 @@ section{
 
 .gallery .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+    /* width: 100%; */
+    /* grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr)); */
+    grid-template-columns: auto auto auto;
     gap:1.5rem;
 }
 
